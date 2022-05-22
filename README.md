@@ -10,7 +10,10 @@
 ![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/Africa_Rivers/Outputs/raw3.png)
 
 [Terraforming Mars with Python](https://medium.com/towards-data-science/terraforming-mars-with-python-4c21ed75117f)
-![alt text](https://github.com/symmy596/towards-data-science-articles/blob/mars/Mars/Outputs/raw6.png)
+![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/Mars/Outputs/raw11.png)
 
 [Creating Beautiful Population Density Maps with Python](https://medium.com/towards-data-science/creating-beautiful-population-density-maps-with-python-fcdd84035e06)
+![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/Population/Outputs/raw3.png)
+
 [Mapping the World’s Flight Paths with Python](https://medium.com/towards-data-science/mapping-the-worlds-flight-paths-with-python-232b9f7271e5)
+![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/Forests/outputs/raw4.png)
