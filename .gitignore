@@ -31,3 +31,6 @@
 **/*.tif
 **/*.mp4
 module/venv
+**/*.png
+**/*.jpeg
+**/*.feather
